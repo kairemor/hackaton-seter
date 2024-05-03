@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "489574250577",
+    "project_id": "hackatonseter",
+    "storage_bucket": "hackatonseter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489574250577:android:95ac3e08abd7e6c6442070",
+        "android_client_info": {
+          "package_name": "com.example.hackatonseter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSNKLz5VfMoTB7jlMIYxIYGJKKLhCmLkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489574250577:android:6ca3088a5ce3fc94442070",
+        "android_client_info": {
+          "package_name": "com.example.test_proj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSNKLz5VfMoTB7jlMIYxIYGJKKLhCmLkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
