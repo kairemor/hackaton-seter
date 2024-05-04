@@ -34,6 +34,7 @@ dependencies:
   firebase_core: ^2.30.0
   firebase_auth: ^4.19.4  # For authentication (optional)
   cloud_firestore: ^4.17.2  # For Firestore database (optional)
+  equatable: ^2.0.3
 
   bloc: ^8.1.1
   flutter_bloc: ^8.1.2
